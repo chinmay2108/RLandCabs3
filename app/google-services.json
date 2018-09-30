@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "169457964323",
+    "firebase_url": "https://rlandcabs3.firebaseio.com",
+    "project_id": "rlandcabs3",
+    "storage_bucket": "rlandcabs3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169457964323:android:306d1b92af5c23e1",
+        "android_client_info": {
+          "package_name": "com.example.tanav.rlandcabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169457964323-n04ilvf81ddgeafsk9h84p4337g5c02l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanav.rlandcabs",
+            "certificate_hash": "8aea8404148af1a6608b541b20efbe0e9c3dd8b9"
+          }
+        },
+        {
+          "client_id": "169457964323-rr1d4n12nr9e9gds38tmf63vavcbv3ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9oJbxLqXL-8YxQ41d_SHiMY8QEzcVC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169457964323-rr1d4n12nr9e9gds38tmf63vavcbv3ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
